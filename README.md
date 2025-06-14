@@ -63,3 +63,5 @@ Por fim, dois novos arquivos são gerados com os documentos faltantes em cada re
     terceirizado_sem_contabilidade.csv
 
 5. Esses arquivos estarão prontos para análise e poderão ser compartilhados conforme necessário.
+
+   [ Post LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7339741984309272576/ ]
